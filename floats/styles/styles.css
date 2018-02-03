@@ -38,4 +38,11 @@ clear: both;
 
 .columns {
 	display: flex;
+flex-direction: column;
+}
+.columns p {
+
+	padding: 6px;
+.gallery img {
+	height: 300PX;
 }
